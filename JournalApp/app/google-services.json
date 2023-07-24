@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894587029046",
+    "project_id": "journalkotlin",
+    "storage_bucket": "journalkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894587029046:android:f8a0c871eafe27057b7a97",
+        "android_client_info": {
+          "package_name": "com.mastercoding.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894587029046-vino50cr2jrqm4u15m1r3sqs6669ucjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mastercoding.journalapp",
+            "certificate_hash": "276ecd7444b3f6a18e26c492dfcdb47c90152263"
+          }
+        },
+        {
+          "client_id": "894587029046-73pq1t5rged7f94uhct7ek55eggrvdb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudWiBbb-UMzNrZFFAN-TjUJOChC0fNhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894587029046-73pq1t5rged7f94uhct7ek55eggrvdb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
